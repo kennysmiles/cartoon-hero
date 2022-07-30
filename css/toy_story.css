@@ -1,0 +1,72 @@
+body{
+	margin: 0 auto;
+	background-color: deepskyblue;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	line-height: 20px;
+	font-size: 20px;
+	
+}
+
+header{
+	background-color: white;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;	 
+}
+
+h1, h2{
+	font-family: 'Lobster', cursive;
+}
+header h1{
+	text-align: center;
+	color: black;
+	font-size: 150px;
+	padding-top: 0;
+	
+}
+
+
+
+header img{
+	margin: 0;
+	border: 0;
+	padding-left: 0;
+	padding-right: 0;
+	max-width: 100%;
+
+}
+
+
+
+
+main{
+
+	margin: 0 auto;
+	padding: 0 20px;
+	color: white;
+}
+
+main img{
+	max-width: 100%;
+}
+
+
+h2{
+	font-size: 35px;
+	color: white;
+
+}
+
+ a{
+	color: white;
+}
+a: hover{
+	color: white;
+	background-color:red;
+}
+
+footer{
+	text-align: center;
+	background-color: blue;
+	color: white;
+}
